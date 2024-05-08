@@ -49,8 +49,6 @@ Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shield
 [![Aliyun](https://img.shields.io/badge/Aliyun-05122A?style=flat&logo=Alibaba-cloud)](#)
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-[![Snake](https://raw.githubusercontent.com/pinkhello/pinkhello/main/assets/github-contribution-grid-snake.svg)](#)
 [![stats](https://github-readme-stats.vercel.app/api?username=pinkhello&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&line_height=20)](#)
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkhello&theme=algolia&layout=compact&langs_count=6&hide=html,vim&count_private=true)](#)
 
@@ -63,9 +61,3 @@ Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shield
 [![GoPush](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&theme=vue&repo=gopush)](https://github.com/pinkhello/gopush)
 [![go-starter](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&theme=vue&repo=go-starter)](https://github.com/pinkhello/go-starter)
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
