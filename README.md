@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-# 👋 &nbsp;Hey there! I'm pinkhello
-
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me 🐳 
 
 Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shields.io/github/followers/pinkhello?label=Follow&style=flat-square)， 🚹，驻魔多年，想法很多、精力有限 活跃在 [github](https://github.com/pinkhello)
 - 「积跬步· 至千里」是我的 Slogan, 希望自己能积少成多。
@@ -55,9 +50,4 @@ Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shield
 ### 🎉 &nbsp;GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pinkhello&theme=dark&hide_border=true)](#)
-
-### 🐳 &nbsp;GitHub个人开源项目
-
-[![GoPush](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&theme=vue&repo=gopush)](https://github.com/pinkhello/gopush)
-[![go-starter](https://github-readme-stats.vercel.app/api/pin/?username=pinkhello&theme=vue&repo=go-starter)](https://github.com/pinkhello/go-starter)
 
