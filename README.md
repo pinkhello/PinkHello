@@ -1,3 +1,7 @@
+### AD 😂 
+
+十年老架构、某厂软件负责人、15年互联网工作经验，任何问题与指导请加V: beat_ping
+
 ### 👨🏻‍💻 &nbsp;About Me 🐳 
 
 Hi, 我是 [「pinkhello」]((https://pinkhello.cc))![Follow](https://img.shields.io/github/followers/pinkhello?label=Follow&style=flat-square)， 🚹，驻魔多年，想法很多、精力有限 活跃在 [github](https://github.com/pinkhello)
